@@ -1,0 +1,14 @@
+{
+  "id": "./",
+  "name": "Library Desk — Management System",
+  "short_name": "Library Desk",
+  "description": "Manage a library catalog, book issues, and returns.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f6f2",
+  "theme_color": "#111128",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
